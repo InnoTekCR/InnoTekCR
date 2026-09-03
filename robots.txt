@@ -1,0 +1,7 @@
+# INNOTEK — robots.txt
+# Reemplaza la URL del sitemap con el dominio final antes de publicar.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.innotek.cr/sitemap.xml

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Reemplaza "https://www.innotek.cr" por el dominio definitivo cuando
+  el sitio esté publicado. Al ser una landing de una sola página, el
+  sitemap contiene una única URL; si en el futuro se agregan páginas
+  adicionales (blog, casos de éxito, etc.), agrégalas aquí.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.innotek.cr/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
